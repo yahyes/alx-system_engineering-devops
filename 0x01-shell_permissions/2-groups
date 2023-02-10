@@ -1,2 +1,2 @@
-#!/bin/badh
-id -G
+#!/bin/bash
+id -n
